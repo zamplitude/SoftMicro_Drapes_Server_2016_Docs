@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🟥️🟨️🟩️🟦️🪟️2️⃣️0️⃣️1️⃣️6️⃣️📖️ The official documentation source repository for SoftMicro Drapes Server 2016, a parody of Microsoft Windows Server 2016
